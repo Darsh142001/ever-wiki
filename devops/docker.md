@@ -9,4 +9,8 @@ To stop the container with SIGTERM `docker stop web`
 
 To stop the container with SIGKILL`docker kill web`
 
+
 >Added a change to this file on branch 002
+
+To add, enter ADD `add .`
+
